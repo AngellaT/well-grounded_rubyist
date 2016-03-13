@@ -15,4 +15,4 @@ end
 
 fahrenheit = convert_to_celsius(celsius)
 
-puts "#{celsius} degres celsius is #{fahrenheit} degrees fahrenheight."
+puts "#{celsius} degres celsius is #{fahrenheit} degrees fahrenheit."

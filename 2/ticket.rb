@@ -28,4 +28,4 @@ end
 
 puts "This ticket is for: #{ticket.event}, at #{ticket.venue}, on #{ticket.date}."
 puts "The performer is #{ticket.performer}."
-puts "The seat is #{ticket.seat} and it costs $%.2f." % ticket.price
+puts "The seat is #{ticket.seat} and it costs $#{"%.2f." % ticket.price}"

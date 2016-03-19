@@ -1,5 +1,6 @@
 #!/home/jim/.rvm/rubies/ruby-1.9.1-p431/bin/ruby
 
+# random comment
 puts "Enter a temperature in celsius: "
 celsius = gets.chomp
 if celsius.to_f % 1 > 0
